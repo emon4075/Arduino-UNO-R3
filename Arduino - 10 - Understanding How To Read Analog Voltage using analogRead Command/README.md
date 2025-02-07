@@ -29,7 +29,7 @@ For **V_{in} = 5V**, we get:
 Thus, the Arduino should read approximately **2.5V** at A4.
 
 ## Circuit Diagram
-![Circuit Diagram](image.png)
+![Circuit Diagram](https://github.com/emon4075/Arduino-UNO-R3/blob/master/Arduino%20-%2010%20-%20Understanding%20How%20To%20Read%20Analog%20Voltage%20using%20analogRead%20Command/Arduino%20-%2010%20-%20Understanding%20How%20To%20Read%20Analog%20Voltage%20using%20analogRead%20Command.png)
 
 ## Code Explanation
 The provided **Arduino sketch** reads the analog voltage at **A4** and converts it to a voltage value, which is then displayed on the **Serial Monitor**.
