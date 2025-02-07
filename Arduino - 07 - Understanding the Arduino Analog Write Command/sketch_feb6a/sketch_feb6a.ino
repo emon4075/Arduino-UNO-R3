@@ -2,7 +2,6 @@ int redPin = 3;
 int myDelay = 200;
 int highBrightness = 180;
 int lowBrightness = 20;
-
 void setup() {
   pinMode(redPin, OUTPUT);
 }
