@@ -16,7 +16,7 @@ This project demonstrates how to control an RGB LED using an Arduino Uno. Users 
 The project uses PWM (Pulse Width Modulation) pins on the Arduino Uno to control the intensity of each color channel (Red, Green, Blue) of an RGB LED. The LED's color is adjusted based on user input provided through the Serial Monitor.
 
 ## Circuit Diagram
-![Circuit Diagram](image.png)
+![Circuit Diagram](https://github.com/emon4075/Arduino-UNO-R3/blob/master/Arduino%20-%2020%20-%20Understanding%20RGB%20LED's/Arduino%20-%2020%20-%20Understanding%20RGB%20LED's.png)
 
 
 ## Components
