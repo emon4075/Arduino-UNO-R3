@@ -4,7 +4,7 @@
 This project allows users to control three LEDs (Red, Green, and Yellow) using an Arduino UNO. The user can specify the LED color and the number of times it should blink via the Serial Monitor.
 
 ## Circuit Diagram
-![Circuit Diagram](image.png)
+![Circuit Diagram](https://github.com/emon4075/Arduino-UNO-R3/blob/master/Arduino%20-%2019%20-%20Reading%20Strings%20from%20the%20Serial%20Monitor/Arduino%20-%2019%20-%20Reading%20Strings%20from%20the%20Serial%20Monitor.png)
 
 ## Components Used
 - **Arduino UNO** (U1)
