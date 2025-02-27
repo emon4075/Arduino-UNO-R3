@@ -11,7 +11,7 @@ This project demonstrates a simple circuit that uses an Arduino to read a sensor
 - Breadboard and jumper wires
 
 ## Circuit Diagram
-![Circuit Diagram](image.png)
+![Circuit Diagram](https://github.com/emon4075/Arduino-UNO-R3/blob/master/Arduino%20-%2025%20-%20Understanding%20Photoresistors%20and%20Photo%20Detectors/Arduino%20-%2025%20-%20Understanding%20Photoresistors%20and%20Photo%20Detectors.png)
 
 ### Key Connections:
 - **Sensor**:  
