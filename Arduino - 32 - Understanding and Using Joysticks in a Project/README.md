@@ -63,13 +63,6 @@ void loop() {
 - `Serial.print()` → Prints the values to the Serial Monitor.
 - `delay(myDelay);` → Adds a delay of 500 milliseconds before the next loop iteration.
 
-### **Correction**
-The switch pin should be set as an `INPUT` instead of `OUTPUT` in `pinMode()`, as we are reading the switch state, not controlling it.
-
-**Corrected Code:**
-```cpp
-pinMode(switchPin, INPUT);
-```
 
 ## Applications
 - Remote control of robots

@@ -4,7 +4,7 @@ int yAxisPin = A1;
 int myDelay = 500;
 
 void setup() {
-  pinMode(switchPin, OUTPUT);
+  pinMode(switchPin, INPUT);
   pinMode(xAxisPin, INPUT);
   pinMode(yAxisPin, INPUT);
   digitalWrite(switchPin, HIGH);
